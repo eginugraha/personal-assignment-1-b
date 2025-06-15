@@ -15,6 +15,7 @@ Program ini merupakan program inventaris barang dengan paradigma **Object-Orient
 - **NIM:** 2802597854  
 - **Mata Kuliah:** Data Structures and Algorithm Analysis  
 - **Kode Mata Kuliah:** COSC6025036
+- **Kode Kelas:** LOCA
 
 ---
 
