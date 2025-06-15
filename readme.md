@@ -3,6 +3,12 @@
 Program ini merupakan program inventaris barang dengan paradigma **Object-Oriented Programming (OOP)**. Program ini memiliki fitur tambah barang dan lihat detail barang. Program ini terdiri dari 3 class, diantaranya: `Barang`, `Inventaris`, dan `InventarisApp`.
 
 ---
+### Features
+- [x] Lihat semua barang
+- [x] Cari barang
+- [x] Tambah barang
+- [x] Update stok barang
+---
 
 ### 👤 Identitas Mahasiswa
 - **Nama:** Egi Nugraha  
