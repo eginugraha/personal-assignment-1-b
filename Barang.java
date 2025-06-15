@@ -21,8 +21,18 @@ public class Barang {
         return jumlahStok;
     }
 
+    // Setter jumlah stok barang
+    public void setJumlahStok(int jumlahStok) {
+        this.jumlahStok = Math.max(jumlahStok, 0);
+    }
+
     // Getter harga barang
     public double getHarga() {
         return harga;
+    }
+
+    // Method tampilkan barang
+    public void tampilkanDetail() {
+        System.out.println("Nama: " + nama + ", Jumlah Stok: " + jumlahStok + ", Harga: Rp " + harga);
     }
 }
